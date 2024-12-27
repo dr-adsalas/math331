@@ -1,0 +1,299 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1853-10-23T11:00:00.000Z,40.8,-124.2,,5.5,ml,,,,,ushis,ushis81,2021-01-29T23:50:51.949Z,"Near Eureka, California",earthquake,,,,,reviewed,ushis,cdmg
+1860-11-13T00:00:00.000Z,40.8,-124.2,,5.5,ml,,,,,ushis,ushis107,2021-01-30T18:30:10.417Z,"Near Eureka, California",earthquake,,,,,reviewed,ushis,cdmg
+1865-10-01T17:15:00.000Z,40.8,-124.2,,5.5,ml,,,,,cdmg,cdmg18651001171500000,2021-01-30T19:05:31.678Z,"Near Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1871-03-02T21:05:00.000Z,40.4,-124.2,,6.3,mw,,,,,cdmg,cdmg18710302210500000,2021-01-31T06:58:50.795Z,"Northeast of Petrolia, California",earthquake,,,,,reviewed,cdmg,cdmg
+1875-09-30T12:30:00.000Z,40.7,-124.0,,5.9,ml,,,,,cdmg,cdmg18750930123000000,2021-01-31T08:15:34.893Z,"Near Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1878-05-09T04:25:00.000Z,40.4,-125.2,,7.0,mw,,,,,cdmg,cdmg18780509042500000,2021-01-31T08:31:27.605Z,"West of Cape Mendocino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1890-07-26T09:40:00.000Z,40.5,-124.2,,6.3,mw,,,,,cdmg,cdmg18900726094000000,2021-03-26T08:38:22.031Z,"Near Ferndale, California",earthquake,,,,,reviewed,cdmg,cdmg
+1894-09-30T17:36:00.000Z,40.3,-124.5,,6.5,mw,,,,,cdmg,cdmg18940930173600000,2021-08-05T23:20:49.269Z,"Southwest of Cape Mendocino, California",earthquake,,,,,reviewed,cdmg,cdmg
+1899-04-16T13:40:00.000Z,41.0,-125.8,,7.0,ms,,,,,cdmg,cdmg18990416134000000,2021-09-07T23:19:51.976Z,"West of Trinidad, California",earthquake,,,,,reviewed,cdmg,cdmg
+1906-04-23T09:10:00.000Z,41.0,-124.5,,6.4,ms,,,,,cdmg,cdmg19060423091000000,2024-08-19T23:44:07.533Z,"Northwest of Eureka, California",earthquake,,,,,reviewed,cdmg,cdmg
+1907-08-11T12:19:00.000Z,40.5,-125.5,,6.4,mw,,,,,cdmg,cdmg19070811121900000,2024-10-13T23:03:40.961Z,Off the coast of Northern California,earthquake,,,,,reviewed,cdmg,cdmg
+1908-08-18T10:59:00.000Z,40.8,-124.0,,5.0,ml,,,,,ushis,ushis476,2018-06-04T20:43:44.000Z,"7 km SE of Bayside, California",earthquake,,,,,reviewed,ushis,cdmg
+1909-10-29T06:45:00.000Z,40.5,-124.2,,6.4,ml,,,,,ushis,ushis495,2018-06-04T20:43:44.000Z,"7 km W of Rio Dell, California",earthquake,,,,,reviewed,ushis,cdmg
+1910-03-19T00:11:00.000Z,40.0,-125.0,,6.0,ms,,,,,ushis,ushis500,2018-06-04T20:43:44.000Z,"79 km W of Shelter Cove, California",earthquake,,,,,reviewed,ushis,cfr
+1917-03-03T16:00:00.000Z,40.83,-124.17,,4.6,uk,,,,,ushis,ushis607,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,jon
+1918-07-15T00:23:12.820Z,41.325,-124.72,15.0,6.5,mw,,,,,iscgem,iscgem913200,2022-05-09T22:48:43.509Z,"52 km WNW of Big Lagoon, California",earthquake,,25.0,0.25,,reviewed,iscgem,iscgem
+1922-01-26T09:31:20.000Z,41.0,-126.0,,6.0,ms,,,,,ushis,ushis673,2018-06-04T20:43:44.000Z,"153 km WNW of Indianola, California",earthquake,,,,,reviewed,ushis,gr
+1922-01-31T13:17:31.440Z,41.189,-125.608,15.0,7.41,mw,,,,,iscgem,iscgem911811,2022-04-25T23:39:52.742Z,"123 km W of Big Lagoon, California",earthquake,,25.0,0.2,,reviewed,iscgem,iscgem
+1923-01-22T09:04:21.300Z,40.482,-125.034,15.0,7.12,mw,,,,,iscgem,iscgem911261,2024-02-11T21:57:08.820Z,"The 1923 Humboldt County, California Earthquake",earthquake,,10.6,0.3,,reviewed,iscgem,iscgem
+1923-02-09T11:14:00.000Z,40.83,-124.17,,5.0,uk,,,,,ushis,ushis686,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,jon
+1923-04-29T02:31:22.860Z,39.954,-124.556,15.0,5.77,mw,,,,,iscgemsup,iscgemsup911344,2022-05-09T17:55:21.015Z,"42 km WSW of Shelter Cove, California",earthquake,,15.1,0.41,,reviewed,iscgemsup,iscgemsup
+1923-04-29T02:31:29.000Z,41.0,-125.0,,5.6,ms,,,,,ushis,ushis689,2018-06-04T20:43:44.000Z,"71 km WNW of Samoa, California",earthquake,,,,,reviewed,ushis,gr
+1924-01-09T10:22:00.000Z,40.83,-124.17,,4.8,uk,,,,,ushis,ushis702,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,jon
+1925-01-26T05:45:45.000Z,40.83,-124.17,,4.8,uk,,,,,ushis,ushis713,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,jon
+1925-06-04T12:02:52.000Z,41.5,-125.0,,6.0,ms,,,,,ushis,ushis718,2018-06-04T20:43:44.000Z,"72 km WSW of Crescent City, California",earthquake,,,,,reviewed,ushis,gr
+1927-08-20T20:05:44.000Z,41.0,-124.6,,5.3,uk,,,,,ushis,ushis772,2018-06-04T20:43:44.000Z,"38 km W of Trinidad, California",earthquake,,,,,reviewed,ushis,jon
+1929-12-04T12:29:00.000Z,40.5,-124.0,,4.5,ml,,,,,ushis,ushis827,2018-06-04T20:43:44.000Z,"8 km ENE of Scotia, California",earthquake,,,,,reviewed,ushis,cdmg
+1930-09-23T02:56:55.000Z,40.83,-124.17,,5.0,ml,,,,,ushis,ushis851,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,cdmg
+1930-12-11T08:58:55.000Z,40.08,-124.5,,5.0,ml,,,,,ushis,ushis857,2018-06-04T20:43:44.000Z,"36 km W of Shelter Cove, California",earthquake,,,,,reviewed,ushis,cdmg
+1930-12-11T12:27:00.000Z,40.92,-124.08,,5.0,uk,,,,,ushis,ushis858,2018-06-04T20:43:44.000Z,"3 km SSE of McKinleyville, California",earthquake,,,,,reviewed,ushis,jon
+1930-12-12T20:16:00.000Z,40.67,-124.32,,4.5,ml,,,,,ushis,ushis860,2018-06-04T20:43:44.000Z,"7 km WSW of Indianola, California",earthquake,,,,,reviewed,ushis,cdmg
+1930-12-14T01:38:00.000Z,40.5,-124.08,,4.8,uk,,,,,ushis,ushis861,2018-06-04T20:43:44.000Z,"2 km E of Rio Dell, California",earthquake,,,,,reviewed,ushis,jon
+1930-12-15T08:38:00.000Z,40.83,-124.17,,4.6,uk,,,,,ushis,ushis862,2018-06-04T20:43:44.000Z,"1 km NE of Samoa, California",earthquake,,,,,reviewed,ushis,jon
+1931-03-10T03:28:53.000Z,40.0,-125.0,,5.6,ms,,,,,ushis,ushis867,2018-06-04T20:43:44.000Z,near the coast of Northern California,earthquake,,,,,reviewed,ushis,gr
+1931-08-23T18:01:43.540Z,40.002,-125.597,15.0,5.7,mw,,,,,iscgem,iscgem906958,2022-04-25T22:20:51.478Z,"130 km WSW of Ferndale, California",earthquake,,25.0,0.2,,reviewed,iscgem,iscgem
+1931-09-09T13:40:30.000Z,40.8,-125.0,,5.8,ms,,,,,ushis,ushis880,2018-06-04T20:43:44.000Z,near the coast of Northern California,earthquake,,,,,reviewed,ushis,gr
+1932-01-05T13:59:04.000Z,40.42,-124.42,,4.5,ml,,,,,ushis,ushis887,2018-06-04T20:43:44.000Z,"21 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1932-06-06T08:44:26.300Z,40.729,-124.287,15.0,6.45,mw,,,,,iscgem,iscgem906203,2024-02-15T09:30:44.793Z,"The 1932 Eureka, California Earthquake",earthquake,,7.7,0.2,,reviewed,iscgem,iscgem
+1933-09-28T11:53:00.000Z,40.08,-123.92,,4.6,uk,,,,,ushis,ushis1009,2018-06-04T20:43:44.000Z,"9 km WSW of Redway, California",earthquake,,,,,reviewed,ushis,jon
+1934-07-06T22:48:57.240Z,41.147,-125.589,15.0,6.76,mw,,,,,iscgem,iscgem905020,2022-04-25T21:45:59.205Z,off the coast of Northern California,earthquake,,25.0,0.4,,reviewed,iscgem,iscgem
+1934-11-17T17:42:00.000Z,40.5,-124.08,,5.0,ml,,,,,ushis,ushis1080,2018-06-04T20:43:44.000Z,"2 km E of Rio Dell, California",earthquake,,,,,reviewed,ushis,jon
+1934-12-15T17:00:10.000Z,40.6,-124.2,,4.8,ml,,,,,ushis,ushis1083,2018-06-04T20:43:44.000Z,"3 km W of Fortuna, California",earthquake,,,,,reviewed,ushis,jon
+1935-06-03T17:08:00.000Z,41.0,-124.0,,5.0,ml,,,,,ushis,ushis1098,2018-06-04T20:43:44.000Z,"4 km NE of Fieldbrook, California",earthquake,,,,,reviewed,ushis,brk
+1936-06-03T09:15:16.760Z,40.313,-125.676,10.0,6.07,mw,,,,,iscgem,iscgem903661,2022-04-25T21:08:23.845Z,"123 km WSW of Ferndale, California",earthquake,,15.4,0.27,,reviewed,iscgem,iscgem
+1936-10-10T01:25:32.000Z,40.3,-126.0,,5.0,ml,,,,,ushis,ushis1155,2018-06-04T20:43:44.000Z,"150 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1937-02-07T04:41:36.840Z,40.653,-125.001,10.0,5.89,mw,,,,,iscgem,iscgem902937,2022-04-25T21:05:51.556Z,"62 km W of Ferndale, California",earthquake,,10.6,0.2,,reviewed,iscgem,iscgem
+1938-07-01T18:13:00.000Z,41.0,-124.0,,5.0,ml,,,,,ushis,ushis1200,2018-06-04T20:43:44.000Z,"4 km NE of Fieldbrook, California",earthquake,,,,,reviewed,ushis,brk
+1938-09-12T06:10:00.000Z,40.0,-124.0,,5.5,ms,,,,,ushis,ushis1209,2018-06-04T20:43:44.000Z,"7 km ESE of Shelter Cove, California",earthquake,,,,,reviewed,ushis,gr
+1938-09-12T06:10:43.060Z,40.252,-124.574,15.0,5.82,mw,,,,,iscgem,iscgem902671,2022-04-25T20:58:12.328Z,"44 km SW of Ferndale, California",earthquake,,7.7,0.2,,reviewed,iscgem,iscgem
+1938-10-18T05:05:00.000Z,40.0,-124.0,,4.5,ml,,,,,ushis,ushis1216,2018-06-04T20:43:44.000Z,"7 km ESE of Shelter Cove, California",earthquake,,,,,reviewed,ushis,brk
+1939-03-12T22:04:00.000Z,41.0,-125.9,,4.9,ml,,,,,ushis,ushis1242,2018-06-04T20:43:44.000Z,"144 km WNW of Indianola, California",earthquake,,,,,reviewed,ushis,jon
+1939-03-17T13:09:00.000Z,40.75,-126.0,,5.0,ml,,,,,ushis,ushis1243,2018-06-04T20:43:44.000Z,"148 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,jon
+1939-05-01T21:53:18.000Z,40.2,-124.7,,4.5,ml,,,,,ushis,ushis1246,2018-06-04T20:43:44.000Z,"55 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1940-09-27T17:03:36.000Z,40.5,-125.0,,4.5,ml,,,,,ushis,ushis1334,2018-06-04T20:43:44.000Z,near the coast of Northern California,earthquake,,,,,reviewed,ushis,brk
+1940-10-22T11:01:00.000Z,40.5,-124.1,,4.5,ml,,,,,ushis,ushis1338,2018-06-04T20:43:44.000Z,"0 km E of Rio Dell, California",earthquake,,,,,reviewed,ushis,jon
+1940-11-19T18:35:00.000Z,40.75,-124.9,,4.7,ml,,,,,ushis,ushis1342,2018-06-04T20:43:44.000Z,"56 km W of Indianola, California",earthquake,,,,,reviewed,ushis,brk
+1940-12-20T23:40:56.880Z,39.734,-124.415,15.0,5.96,mw,,,,,iscgem,iscgem901741,2022-04-26T19:40:41.517Z,"44 km SW of Shelter Cove, California",earthquake,,25.0,0.42,,reviewed,iscgem,iscgem
+1941-01-23T12:03:00.000Z,40.5,-125.0,,4.7,ml,,,,,ushis,ushis1347,2018-06-04T20:43:44.000Z,"62 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1941-02-09T09:44:09.230Z,40.651,-125.262,15.0,6.79,mw,,,,,iscgem,iscgem900654,2022-04-26T19:23:53.588Z,"84 km W of Ferndale, California",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1941-02-11T04:51:00.000Z,40.0,-125.0,,4.5,ms,,,,,ushis,ushis1349,2018-06-04T20:43:44.000Z,"79 km W of Shelter Cove, California",earthquake,,,,,reviewed,ushis,gr
+1941-05-16T02:36:42.000Z,40.3,-125.0,,4.5,ml,,,,,ushis,ushis1357,2018-06-04T20:43:44.000Z,"69 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1941-10-03T16:13:10.440Z,40.488,-125.064,10.0,6.49,mw,,,,,iscgem,iscgem901027,2022-04-26T19:30:36.838Z,"68 km W of Ferndale, California",earthquake,,10.6,0.25,,reviewed,iscgem,iscgem
+1941-10-06T06:59:00.000Z,40.4,-125.0,,5.0,ml,,,,,ushis,ushis1380,2018-06-04T20:43:44.000Z,"65 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1944-11-08T11:08:44.000Z,41.5,-125.0,,4.7,ml,,,,,ushis,ushis1482,2018-06-04T20:43:44.000Z,"72 km WSW of Crescent City, California",earthquake,,,,,reviewed,ushis,brk
+1947-03-30T07:44:00.000Z,40.38,-124.68,,4.6,ml,,,,,ushis,ushis1574,2018-06-04T20:43:44.000Z,"41 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1947-05-27T20:59:42.000Z,40.4,-124.7,,5.2,ml,,,,,ushis,ushis1581,2018-06-04T20:43:44.000Z,"41 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1947-11-02T07:01:00.000Z,40.1,-125.3,,4.8,ml,,,,,ushis,ushis1604,2018-06-04T20:43:44.000Z,"102 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1948-02-19T08:25:09.000Z,41.0,-124.9,,4.8,ml,,,,,ushis,ushis1614,2018-06-04T20:43:44.000Z,"63 km WNW of Samoa, California",earthquake,,,,,reviewed,ushis,brk
+1948-11-12T23:10:25.000Z,40.4,-124.32,,4.5,ml,,,,,ushis,ushis1636,2018-06-04T20:43:44.000Z,"20 km SSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1949-10-28T02:29:16.000Z,40.9,-124.2,,4.5,ml,,,,,ushis,ushis1675,2018-06-04T20:43:44.000Z,"6 km NNW of Manila, California",earthquake,,,,,reviewed,ushis,brk
+1950-01-14T19:52:30.000Z,40.217,-124.417,,4.6,ml,,,,,ushis,ushis1681,2018-06-04T20:43:44.000Z,"35 km NW of Shelter Cove, California",earthquake,,,,,reviewed,ushis,brk
+1950-06-09T13:07:44.000Z,41.283,-125.733,,4.8,ml,,,,,ushis,ushis1696,2018-06-04T20:43:44.000Z,"134 km W of Big Lagoon, California",earthquake,,,,,reviewed,ushis,brk
+1950-10-08T12:24:19.000Z,40.283,-124.8,,4.6,ml,,,,,ushis,ushis1717,2018-06-04T20:43:44.000Z,"55 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1951-01-13T20:31:32.000Z,40.4,-125.0,,4.8,ml,,,,,ushis,ushis1726,2018-06-04T20:43:44.000Z,"65 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1951-04-01T19:21:08.000Z,40.467,-125.3,,5.0,ml,,,,,ushis,ushis1737,2018-06-04T20:43:44.000Z,"88 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1951-10-08T04:10:38.080Z,40.238,-124.713,15.0,6.02,mw,,,,,iscgem,iscgem894786,2022-04-26T18:18:26.295Z,"53 km SW of Ferndale, California",earthquake,,15.1,0.2,,reviewed,iscgem,iscgem
+1951-11-13T11:24:42.000Z,40.4,-125.3,,4.8,ml,,,,,ushis,ushis1757,2018-06-04T20:43:44.000Z,"89 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1951-11-14T08:39:53.000Z,40.433,-124.05,,4.7,ml,,,,,ushis,ushis1758,2018-06-04T20:43:44.000Z,"6 km SE of Scotia, California",earthquake,,,,,reviewed,ushis,brk
+1952-09-22T11:41:29.750Z,40.234,-124.322,15.0,6.01,mw,,,,,iscgem,iscgem893449,2022-04-26T18:06:42.506Z,"31 km NW of Shelter Cove, California",earthquake,,15.1,0.29,,reviewed,iscgem,iscgem
+1953-02-23T07:42:51.000Z,41.5,-125.133,,4.7,ml,,,,,ushis,ushis1883,2018-06-04T20:43:44.000Z,"82 km WSW of Crescent City, California",earthquake,,,,,reviewed,ushis,brk
+1954-11-25T11:16:40.280Z,40.447,-125.711,10.0,6.85,mw,,,,,iscgem,iscgem891295,2022-04-26T17:48:18.538Z,"123 km W of Ferndale, California",earthquake,,15.4,0.2,,reviewed,iscgem,iscgem
+1954-12-07T04:32:36.000Z,40.5,-126.0,,4.6,ml,,,,,ushis,ushis1984,2018-06-04T20:43:44.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,brk
+1955-08-27T07:00:26.000Z,40.383,-124.5,,4.5,ml,,,,,ushis,ushis2057,2018-06-04T20:43:44.000Z,"29 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1956-03-10T05:56:14.000Z,40.3,-124.233,,4.5,ml,,,,,ushis,ushis2085,2018-06-04T20:43:44.000Z,"23 km SSW of Scotia, California",earthquake,,,,,reviewed,ushis,brk
+1956-10-11T17:18:19.000Z,40.75,-125.8,,4.8,ml,,,,,ushis,ushis2103,2018-06-04T20:43:44.000Z,"131 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1956-10-11T17:22:30.000Z,40.7,-125.8,,4.8,ml,,,,,ushis,ushis2104,2018-06-04T20:43:44.000Z,"130 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1957-09-03T16:38:41.000Z,41.533,-125.583,,4.5,ml,,,,,ushis,ushis2257,2018-06-04T20:43:44.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,brk
+1958-05-24T23:04:47.000Z,40.3,-124.05,,4.9,ml,,,,,ushis,ushis2304,2018-06-04T20:43:45.000Z,"11 km WSW of Weott, California",earthquake,,,,,reviewed,ushis,brk
+1959-07-24T01:23:13.780Z,41.012,-125.247,15.0,6.25,mw,,,,,iscgem,iscgem882505,2022-04-26T16:46:16.472Z,off the coast of Northern California,earthquake,,3.3,0.38,,reviewed,iscgem,iscgem
+1959-10-31T19:42:14.000Z,41.3,-125.5,,4.5,ml,,,,,ushis,ushis2419,2018-06-04T20:43:45.000Z,"116 km W of Big Lagoon, CA",earthquake,,,,,reviewed,ushis,brk
+1959-12-05T08:13:42.000Z,40.3,-125.417,,5.1,ml,,,,,ushis,ushis2423,2018-06-04T20:43:45.000Z,"102 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1959-12-22T02:38:57.000Z,40.267,-124.517,,4.7,ml,,,,,ushis,ushis2426,2018-06-04T20:43:45.000Z,"40 km SSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1960-06-06T01:17:53.420Z,40.729,-124.792,15.0,6.0,mw,,,,,iscgem,iscgem879414,2022-04-26T16:31:24.478Z,near the coast of Northern California,earthquake,,10.6,0.2,,reviewed,iscgem,iscgem
+1960-12-27T10:35:28.930Z,41.416,-125.074,20.0,5.9,mw,,,,,iscgem,iscgem881080,2022-04-26T16:39:35.441Z,"81 km WSW of Crescent City, California",earthquake,,25.0,0.27,,reviewed,iscgem,iscgem
+1960-12-27T11:08:44.000Z,41.5,-125.0,,4.7,ml,,,,,ushis,ushis2475,2018-06-04T20:43:45.000Z,"72 km WSW of Crescent City, California",earthquake,,,,,reviewed,ushis,brk
+1961-04-06T04:04:45.000Z,40.183,-124.75,,5.1,ml,,,,,ushis,ushis2490,2018-06-04T20:43:45.000Z,"60 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1962-03-05T20:57:46.000Z,40.3,-125.5,,4.6,ml,,,,,ushis,ushis2540,2018-06-04T20:43:45.000Z,"109 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1962-04-14T07:53:14.700Z,40.268,-125.31,,5.4,ml,,,,,ushis,ushis2545,2018-06-04T20:43:45.000Z,"95 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1962-07-14T19:43:46.200Z,40.427,-125.512,30.0,5.1,ml,,,,,ushis,ushis2556,2018-06-04T20:43:45.000Z,"107 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1962-09-04T17:17:26.000Z,41.01,-124.21,45.0,4.9,ml,,,,,ushis,ushis2570,2018-06-04T20:43:45.000Z,"7 km SW of Trinidad, California",earthquake,,,,,reviewed,ushis,brk
+1963-07-08T04:19:08.400Z,40.8,-125.8,33.0,4.7,mb,,,,,ushis,ushis2616,2018-06-04T20:43:45.000Z,"132 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1964-02-26T20:32:51.400Z,40.308,-124.892,,4.5,ml,,,,,ushis,ushis2639,2018-06-04T20:43:45.000Z,"61 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1964-03-03T20:02:33.000Z,40.3,-125.3,,4.8,mb,,,,,ushis,ushis2640,2018-06-04T20:43:45.000Z,"93 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1965-02-12T10:50:18.000Z,40.3,-124.9,,5.3,mb,,,,,ushis,ushis2782,2018-06-04T20:43:45.000Z,"62 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1965-09-16T04:10:23.400Z,40.39,-125.6,33.0,5.6,mb,,,,,ushis,ushis2846,2018-06-04T20:43:45.000Z,"115 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1966-04-10T22:27:00.900Z,41.3,-125.6,33.0,5.0,mb,,,,,ushis,ushis2887,2018-06-04T20:43:45.000Z,"123 km W of Big Lagoon, California",earthquake,,,,,reviewed,ushis,us
+1966-11-26T04:30:58.700Z,40.3,-125.4,33.0,4.6,mb,,,,,ushis,ushis2940,2018-06-04T20:43:45.000Z,"101 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1966-12-17T15:16:26.200Z,40.38,-125.7,,4.7,mb,,,,,ushis,ushis2942,2018-06-04T20:43:45.000Z,"123 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1967-11-24T13:57:00.400Z,40.4,-125.1,17.0,4.6,mb,,,,,ushis,ushis2978,2018-06-04T20:43:45.000Z,"73 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1967-12-10T12:06:55.050Z,40.478,-124.656,20.0,5.62,mw,,,,,iscgem,iscgem828247,2022-04-26T22:40:59.135Z,"34 km WSW of Ferndale, California",earthquake,,3.7,0.48,,reviewed,iscgem,iscgem
+1967-12-10T12:33:54.200Z,40.5,-125.0,15.0,4.6,mb,,,,,ushis,ushis2981,2018-06-04T20:43:45.000Z,"62 km W of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1967-12-30T08:04:39.400Z,40.51,-124.43,3.0,4.6,mb,,,,,ushis,ushis2983,2018-06-04T20:43:45.000Z,"15 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1968-05-09T23:27:46.500Z,41.2,-125.7,33.0,4.7,mb,,,,,ushis,ushis3003,2018-06-04T20:43:45.000Z,"131 km W of Big Lagoon, California",earthquake,,,,,reviewed,ushis,us
+1968-06-03T07:05:55.000Z,40.4,-124.8,33.0,4.5,mb,,,,,ushis,ushis3008,2018-06-04T20:43:45.000Z,"49 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1968-06-26T01:42:14.600Z,40.29,-124.67,,5.5,mb,,,,,ushis,ushis3014,2018-06-04T20:43:45.000Z,"46 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1968-06-26T10:47:45.000Z,40.2,-124.3,10.0,5.1,mb,,,,,ushis,ushis3015,2018-06-04T20:43:45.000Z,"26 km NW of Shelter Cove, California",earthquake,,,,,reviewed,ushis,us
+1969-02-07T21:25:50.300Z,40.325,-124.174,24.8,5.31,mw,,,,,iscgem,iscgem811964,2022-04-26T22:11:39.852Z,"18 km SSW of Scotia, California",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1969-06-28T04:07:26.700Z,40.3,-124.4,39.0,4.5,mb,,,,,ushis,ushis3050,2018-06-04T20:43:45.000Z,"32 km SW of Scotia, California",earthquake,,,,,reviewed,ushis,us
+1969-07-01T12:00:45.600Z,40.3,-124.3,26.0,4.6,mb,,,,,ushis,ushis3051,2018-06-04T20:43:45.000Z,"26 km SW of Scotia, California",earthquake,,,,,reviewed,ushis,us
+1970-06-07T04:12:10.300Z,40.3,-125.9,33.0,5.0,mb,,,,,ushis,ushis3106,2018-06-04T20:43:45.000Z,"142 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1970-09-13T21:10:23.000Z,40.2,-125.1,33.0,5.4,mb,,,,,ushis,ushis3116,2018-06-04T20:43:45.000Z,"82 km WSW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1971-02-27T00:31:41.410Z,40.404,-124.816,24.2,5.49,mw,,,,,iscgem,iscgem787744,2022-04-26T21:23:07.548Z,"50 km WSW of Ferndale, California",earthquake,,5.2,0.22,,reviewed,iscgem,iscgem
+1971-11-20T13:59:05.450Z,40.361,-124.414,15.0,5.4,mw,,,,,iscgem,iscgem778683,2022-04-26T21:01:26.849Z,"27 km SSW of Ferndale, California",earthquake,,7.7,0.55,,reviewed,iscgem,iscgem
+1972-03-01T09:28:56.550Z,40.535,-125.444,10.0,5.93,mw,,,,,iscgem,iscgem774945,2022-04-26T20:53:50.446Z,"100 km W of Ferndale, California",earthquake,,15.4,0.2,,reviewed,iscgem,iscgem
+1972-11-14T02:10:13.800Z,40.3,-124.67,23.0,4.8,ms,,,,,ushis,ushis3212,2018-06-04T20:43:45.000Z,"46 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,us
+1973-03-20T19:17:02.800Z,40.301,-125.944,33.0,4.7,mb,,,,,us,usp000010e,2014-11-06T23:21:10.257Z,"145 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1973-06-15T19:18:51.700Z,41.2,-125.5,33.0,5.2,mb,,,,,ushis,ushis3237,2018-06-04T20:43:45.000Z,"114 km W of Big Lagoon, California",earthquake,,,,,reviewed,ushis,us
+1973-08-09T02:18:25.800Z,40.26,-124.233,2.0,5.1,mb,,,,,us,usp000031j,2022-04-27T18:42:29.042Z,"27 km SSW of Scotia, California",earthquake,,,,,reviewed,b,us
+1973-12-21T19:12:43.500Z,40.625,-124.597,30.0,5.2,mb,,,,,us,usp00004m1,2020-07-10T19:58:59.718Z,"28 km W of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-02-06T02:32:03.400Z,40.374,-125.236,18.0,4.9,mb,,,,,us,usp000056s,2014-11-06T23:21:22.728Z,"85 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-03-16T15:57:41.800Z,40.34,-124.723,33.0,4.7,mb,,,,,us,usp00005n3,2018-06-04T20:43:45.000Z,"46 km SW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-04-07T11:09:30.500Z,40.373,-125.309,33.0,4.5,mb,,,,,us,usp00005wm,2014-11-06T23:21:23.638Z,"91 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-06-10T07:35:00.500Z,40.446,-125.083,22.0,4.8,mb,,,,,us,usp00006q6,2014-11-06T23:21:24.625Z,"70 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-07-03T05:00:58.600Z,40.424,-125.136,12.0,5.4,mb,,,,,us,usp00006zr,2018-06-04T20:43:45.000Z,"75 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-07-13T11:09:57.500Z,40.372,-125.182,1.0,5.0,mb,,,,,us,usp000073z,2014-11-06T23:21:25.184Z,"81 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1974-11-28T18:16:05.600Z,40.318,-125.128,10.0,4.5,mb,,,,,us,usp00008xu,2014-11-06T23:21:27.589Z,"78 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1975-01-12T01:37:08.520Z,40.3295,-124.405,33.477,4.5,ml,12.0,299.0,0.1099,0.05,nc,nc1022498,2020-07-10T14:12:31.725Z,"29 km SSW of Ferndale, California",earthquake,4.04,2.98,,0.0,reviewed,nc,nc
+1975-01-28T13:53:20.850Z,40.49,-125.2253333,5.41,4.8,ml,15.0,332.0,0.7234,0.11,nc,nc1022677,2018-06-04T20:43:45.000Z,"82 km W of Ferndale, California",earthquake,11.13,12.08,,0.0,reviewed,nc,nc
+1975-06-07T08:46:23.510Z,40.5415,-124.2763333,23.13,5.3,ml,15.0,176.0,0.04595,0.04,nc,nc1024130,2022-04-27T17:41:06.972Z,"3 km SSW of Ferndale, California",earthquake,0.87,0.64,,0.0,reviewed,nc,nc
+1975-09-09T02:43:42.050Z,40.903,-124.5895,21.144,4.6,ml,15.0,274.0,0.3595,0.06,nc,nc1026218,2018-06-04T20:43:45.000Z,"35 km WNW of Samoa, California",earthquake,2.6,0.91,,0.0,reviewed,nc,nc
+1975-11-14T09:29:49.480Z,40.5768333,-124.4291667,22.451,4.8,ml,12.0,245.0,0.1685,0.06,nc,nc1027465,2022-04-27T17:27:28.666Z,"13 km W of Ferndale, California",earthquake,1.67,0.72,,0.0,reviewed,nc,nc
+1975-11-16T17:29:40.250Z,40.6246667,-125.3146667,4.607,5.0,ml,13.0,319.0,0.818,0.15,nc,nc1027519,2021-05-13T21:55:42.896Z,"89 km W of Ferndale, California",earthquake,11.7,14.95,,0.0,reviewed,nc,nc
+1976-01-20T13:59:38.740Z,40.445,-125.1491667,7.491,4.6,ml,14.0,332.0,0.6613,0.07,nc,nc1028485,2018-06-04T20:43:45.000Z,"76 km WSW of Ferndale, California",earthquake,6.79,6.47,,0.0,reviewed,nc,nc
+1976-09-13T16:08:10.800Z,40.232,-124.522,33.0,4.8,mb,,,,,us,usp0000jcq,2014-11-06T23:21:37.179Z,"44 km SSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1976-11-26T11:19:32.070Z,41.0351667,-124.9496667,41.78,6.3,ml,13.0,318.0,0.6577,0.09,nc,nc1032447,2022-04-27T16:48:25.308Z,"67 km W of Trinidad, California",earthquake,8.57,5.3,,0.0,reviewed,nc,nc
+1977-07-18T21:49:32.370Z,40.4631667,-125.1133333,8.58,4.7,ml,18.0,330.0,0.6351,0.08,nc,nc1035885,2018-06-04T20:43:45.000Z,"73 km W of Ferndale, California",earthquake,8.6,4.35,,0.0,reviewed,nc,nc
+1978-05-23T21:42:07.630Z,40.3425,-124.4858333,29.221,4.6,ml,25.0,235.0,0.1604,0.05,nc,nc1040389,2018-06-04T20:43:45.000Z,"32 km SW of Ferndale, California",earthquake,1.04,0.77,,0.0,reviewed,nc,nc
+1978-05-29T00:46:47.180Z,40.6093333,-125.207,7.94,4.8,ml,15.0,317.0,0.7108,0.13,nc,nc1040451,2016-12-15T19:09:18.811Z,off the coast of Northern California,earthquake,9.72,13.27,,0.0,reviewed,nc,nc
+1978-09-25T02:10:50.430Z,41.1358333,-125.4646667,5.198,4.6,ml,25.0,307.0,1.047,0.1,nc,nc1042468,2018-06-04T20:43:45.000Z,"111 km W of Trinidad, California",earthquake,4.63,7.82,,0.0,reviewed,nc,nc
+1978-10-06T21:26:33.420Z,40.4688333,-124.4355,24.949,4.6,ml,15.0,250.0,0.136,0.05,nc,nc1042626,2020-07-10T14:16:06.251Z,"18 km SW of Ferndale, California",earthquake,1.81,0.82,,0.0,reviewed,nc,nc
+1978-12-03T06:48:08.690Z,40.6255,-125.7258333,102.966,5.07,md,13.0,317.0,1.106,0.17,nc,nc1043599,2016-12-15T23:08:52.639Z,"123 km W of Ferndale, California",earthquake,10.57,8.96,,1.0,reviewed,nc,nc
+1979-02-03T09:58:16.990Z,40.874,-124.3248333,23.592,5.2,ml,15.0,236.0,0.1793,0.08,nc,nc1044459,2020-07-10T14:16:18.281Z,"13 km WNW of Samoa, California",earthquake,1.45,0.93,,0.0,reviewed,nc,nc
+1979-04-07T06:18:54.620Z,41.1228333,-124.994,4.496,5.34,md,10.0,318.0,0.7685,0.13,nc,nc1045303,2016-12-16T00:59:24.906Z,"71 km W of Trinidad, California",earthquake,10.35,13.58,,1.0,reviewed,nc,nc
+1979-08-01T10:50:52.120Z,40.7623333,-125.0518333,43.899,4.7,ml,12.0,321.0,0.6126,0.16,nc,nc1046864,2016-12-16T02:45:35.789Z,"69 km W of Indianola, California",earthquake,12.29,6.17,,0.0,reviewed,nc,nc
+1979-10-24T15:23:51.450Z,40.4631667,-124.6458333,26.207,4.5,ml,28.0,248.0,0.2829,0.05,nc,nc1048463,2018-06-04T20:43:45.000Z,"34 km WSW of Ferndale, California",earthquake,0.92,1.31,,0.0,reviewed,nc,nc
+1979-11-08T04:30:25.990Z,40.3958333,-125.4511667,8.035,4.5,ml,16.0,299.0,0.8901,0.09,nc,nc1048683,2018-06-04T20:43:45.000Z,"102 km WSW of Ferndale, California",earthquake,5.22,10.92,,0.0,reviewed,nc,nc
+1980-03-03T14:17:03.330Z,40.4136667,-125.1461667,8.889,5.1,ml,31.0,288.0,0.6216,0.1,nc,nc1051336,2022-04-28T01:41:24.962Z,"76 km WSW of Ferndale, California",earthquake,2.72,5.6,,0.0,reviewed,nc,nc
+1980-11-08T10:27:34.000Z,41.117,-124.253,19.0,7.2,mw,,,,,us,usp0001aq1,2024-02-25T08:53:47.192Z,"The 1980 Eureka, California Earthquake",earthquake,,,,,reviewed,us,01023
+1980-11-08T10:47:32.900Z,40.357,-125.205,15.0,4.8,mb,,,,,us,usp0001aq2,2018-06-04T20:43:45.000Z,"83 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-08T10:51:18.400Z,40.269,-125.441,15.0,4.7,mb,,,,,us,usp0001aq3,2018-06-04T20:43:45.000Z,"105 km WSW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-08T11:20:38.700Z,40.247,-124.742,15.0,5.0,mb,,,,,us,usp0001aq5,2018-06-04T20:43:45.000Z,"54 km SW of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-08T22:47:52.300Z,40.571,-125.068,15.0,4.6,mb,,,,,us,usp0001aqk,2018-06-04T20:43:45.000Z,"68 km W of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-08T23:05:32.200Z,40.998,-124.608,15.0,4.7,mb,,,,,us,usp0001aqm,2014-11-06T23:24:27.137Z,"39 km W of Trinidad, California",earthquake,,,,,reviewed,us,us
+1980-11-08T23:07:10.400Z,40.535,-124.784,15.0,5.0,ms,,,,,us,usp0001aqn,2018-06-04T20:43:45.000Z,"44 km W of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-09T04:09:08.800Z,40.501,-125.343,15.0,5.0,mb,,,,,us,usp0001aqt,2018-06-04T20:43:45.000Z,"91 km W of Ferndale, California",earthquake,,,,,reviewed,us,us
+1980-11-10T20:42:20.600Z,41.225,-124.425,15.0,4.6,mb,,,,,us,usp0001arn,2014-11-06T23:24:27.173Z,"25 km WNW of Big Lagoon, California",earthquake,,,,,reviewed,us,us
+1980-11-10T23:59:27.100Z,40.562,-125.669,13.0,4.8,mb,,,,,us,usp0001ars,2018-06-04T20:43:45.000Z,"118 km W of Ferndale, California",earthquake,,,,,reviewed,b,us
+1980-12-23T23:10:22.420Z,41.0223333,-125.4391667,4.951,4.79,md,10.0,316.0,1.041,0.21,nc,nc1058431,2016-12-14T04:47:07.055Z,"107 km WNW of Samoa, California",earthquake,14.08,18.91,,1.0,reviewed,nc,nc
+1980-12-24T13:29:31.640Z,41.299,-124.7443333,2.821,5.0,ml,13.0,317.0,0.6198,0.16,nc,nc1058482,2016-12-14T04:50:49.190Z,"53 km WNW of Big Lagoon, California",earthquake,10.94,8.22,,0.0,reviewed,nc,nc
+1981-03-15T06:07:39.910Z,40.409,-125.786,6.886,4.7,ml,47.0,293.0,1.17,0.2,nc,nc1061352,2018-06-04T20:43:45.000Z,"130 km W of Ferndale, California",earthquake,4.81,18.24,,0.0,reviewed,nc,nc
+1981-05-26T11:41:04.380Z,40.3703333,-124.9045,1.854,4.6,ml,60.0,253.0,0.4459,0.6,nc,nc1064017,2018-06-04T20:43:45.000Z,"58 km WSW of Ferndale, California",earthquake,3.86,6.41,,0.0,reviewed,nc,nc
+1981-07-17T16:37:32.910Z,40.2283333,-124.1685,10.308,4.6,ml,31.0,180.0,0.1838,0.2,nc,nc1065656,2022-04-28T01:00:25.262Z,"23 km WSW of Weott, California",earthquake,0.64,0.69,,0.0,reviewed,nc,nc
+1981-09-16T12:41:14.490Z,40.3318333,-124.5573333,27.607,4.74,ml,33.0,239.0,0.0,0.06,nc,nc1067679,2018-06-04T20:43:45.000Z,"36 km SW of Ferndale, California",earthquake,1.16,0.99,,5.0,reviewed,nc,nc
+1982-01-13T12:26:21.530Z,40.3976667,-125.6886667,4.622,4.8,ml,64.0,280.0,1.036,0.24,nc,nc1071203,2018-06-04T20:43:45.000Z,"122 km W of Ferndale, California",earthquake,3.52,16.7,,0.0,reviewed,nc,nc
+1982-02-06T12:02:01.630Z,41.0795,-125.163,5.162,5.2,ml,58.0,295.0,0.8189,0.19,nc,nc1071848,2022-04-28T00:43:13.153Z,"85 km W of Trinidad, California",earthquake,3.7,6.8,,0.0,reviewed,nc,nc
+1983-05-29T06:55:33.130Z,40.457,-125.444,10.0,5.1,ms,,,,1.0,us,usp0001vs3,2022-04-28T00:03:55.757Z,"100 km W of Ferndale, California",earthquake,,,,5.0,reviewed,us,us
+1983-08-24T13:36:28.830Z,40.372,-124.9245,11.188,5.5,ml,41.0,257.0,0.4604,0.14,nc,nc1100970,2022-04-27T23:53:32.460Z,"60 km WSW of Ferndale, California",earthquake,1.65,2.18,,0.0,reviewed,nc,nc
+1983-12-20T10:41:02.250Z,40.408,-125.6465,8.126,5.66,ml,86.0,287.0,1.066,0.23,nc,nc1108755,2022-04-27T23:41:53.847Z,"118 km W of Ferndale, California",earthquake,3.82,20.61,,7.0,reviewed,nc,nc
+1984-02-28T15:16:14.120Z,40.4308333,-125.1951667,7.931,5.2,ml,57.0,277.0,0.6568,0.13,nc,nc8089,2018-06-04T20:43:45.000Z,"80 km WSW of Ferndale, California",earthquake,2.4,9.69,,0.0,reviewed,nc,nc
+1984-08-04T21:45:54.380Z,40.329,-124.6493333,19.917,4.7,ml,52.0,233.0,0.2802,0.1,nc,nc24939,2022-04-27T23:13:53.313Z,"42 km SW of Ferndale, California",earthquake,0.86,0.33,,0.0,reviewed,nc,nc
+1984-09-10T07:47:46.860Z,40.5196667,-125.6416667,4.682,4.5,ml,30.0,268.0,0.9973,0.5,nc,nc27656,2016-12-02T03:30:11.081Z,"116 km W of Ferndale, California",earthquake,14.43,41.52,,0.0,reviewed,nc,nc
+1984-09-10T23:52:51.020Z,40.4893333,-125.1035,4.549,4.7,ml,30.0,269.0,0.5856,1.05,nc,nc27710,2016-12-02T03:30:51.757Z,"71 km W of Ferndale, California",earthquake,15.49,20.05,,0.0,reviewed,nc,nc
+1984-09-11T11:23:30.000Z,40.348,-125.0311667,4.492,4.6,ml,58.0,266.0,0.5676,1.39,nc,nc27726,2016-12-02T03:31:16.045Z,"69 km WSW of Ferndale, California",earthquake,8.86,13.8,,0.0,reviewed,nc,nc
+1984-09-20T18:30:44.030Z,40.4415,-125.4498333,3.223,4.8,ml,80.0,266.0,0.8505,0.25,nc,nc28336,2018-06-04T20:43:45.000Z,"101 km W of Ferndale, California",earthquake,2.38,9.88,,0.0,reviewed,nc,nc
+1985-07-26T23:49:08.430Z,40.3285,-124.9328333,4.326,4.97,md,8.0,327.0,0.5973,0.08,nc,nc52413,2016-12-03T07:17:02.816Z,"63 km WSW of Ferndale, California",earthquake,7.83,6.7,0.07,4.0,reviewed,nc,nc
+1986-08-01T05:30:01.520Z,40.8936667,-123.9956667,18.112,4.88,md,7.0,155.0,0.2658,0.19,nc,nc1142006,2016-12-06T00:18:59.859Z,"1 km NW of Blue Lake, California",earthquake,1.75,2.11,0.09,10.0,reviewed,nc,nc
+1986-11-21T23:33:01.700Z,40.3605,-124.4061667,15.295,5.1,ml,22.0,225.0,0.1261,0.08,nc,nc88508,2022-04-27T22:01:02.965Z,"26 km SSW of Ferndale, California",earthquake,0.77,0.31,,7.0,reviewed,nc,nc
+1986-11-21T23:34:18.970Z,40.359,-124.3978333,15.305,5.1,ml,4.0,240.0,0.1252,0.0,nc,nc88509,2018-06-04T20:43:45.000Z,"26 km SSW of Ferndale, California",earthquake,2.26,0.93,,7.0,reviewed,nc,nc
+1987-07-31T23:56:57.830Z,40.4156667,-124.3826667,16.895,5.6,ml,20.0,243.0,0.06937,0.06,nc,nc10083966,2022-04-27T21:41:01.061Z,"20 km SSW of Ferndale, California",earthquake,0.84,0.21,,4.0,reviewed,nc,nc
+1989-09-21T17:41:18.430Z,40.3185,-124.646,16.29,4.9,ml,67.0,234.0,0.2838,0.08,nc,nc10090055,2018-06-04T20:43:45.000Z,"43 km SW of Ferndale, California",earthquake,0.52,0.39,,7.0,reviewed,nc,nc
+1990-01-16T20:08:20.460Z,40.2425,-124.2975,3.759,5.4,ml,147.0,247.0,0.6297,0.2,nc,nc10090568,2022-04-28T20:02:16.902Z,"30 km NW of Shelter Cove, California",earthquake,0.98,3.15,,0.0,reviewed,nc,nc
+1990-09-26T04:14:09.910Z,40.4213333,-125.4911667,6.332,4.7,ml,49.0,268.0,0.8838,0.14,nc,nc20092326,2016-12-17T17:37:21.635Z,"105 km W of Ferndale, California",earthquake,2.57,14.19,,0.0,reviewed,nc,nc
+1990-12-07T21:51:57.500Z,40.6383333,-125.3856667,4.392,4.5,ml,159.0,260.0,0.8162,0.26,nc,nc202007,2016-12-17T22:30:26.705Z,"95 km W of Ferndale, California",earthquake,1.27,2.08,,0.0,reviewed,nc,nc
+1991-04-28T01:32:14.420Z,40.383,-124.5665,26.426,4.7,ml,49.0,228.0,0.3423,0.09,nc,nc211426,2016-12-18T08:25:31.600Z,"33 km SW of Ferndale, California",earthquake,0.56,1.37,,0.0,reviewed,nc,nc
+1991-08-03T00:49:00.520Z,40.3983333,-125.6846667,5.372,4.5,ml,144.0,265.0,1.032,0.29,nc,nc226002,2016-12-18T13:42:40.769Z,off the coast of Northern California,earthquake,2.09,1.33,,0.0,reviewed,nc,nc
+1991-08-17T19:29:40.000Z,40.2516667,-124.2858333,8.32,6.0,ml,32.0,196.0,0.1063,0.09,nc,nc228027,2022-04-28T19:05:31.058Z,"30 km SSW of Scotia, California",earthquake,0.36,0.41,,0.0,reviewed,nc,nc
+1992-03-08T03:43:04.050Z,40.2326667,-124.2625,9.48,5.32,md,19.0,202.0,0.08108,0.06,nc,nc255182,2022-04-28T18:51:34.112Z,"27 km NW of Shelter Cove, California",earthquake,0.6,0.61,0.38,328.0,reviewed,nc,nc
+1992-04-25T18:06:05.180Z,40.3353333,-124.2286667,9.856,7.2,mh,9.0,115.0,0.1072,0.07,nc,nc269151,2024-02-25T07:25:06.580Z,"The 1992 Petrolia, California Earthquake",earthquake,0.33,0.64,,0.0,reviewed,nc,nc
+1992-04-25T18:20:12.840Z,40.4406667,-124.406,-1.327,4.53,md,15.0,239.0,0.6423,0.1,nc,nc1194332,2016-12-19T07:20:18.861Z,"19 km SW of Ferndale, California",earthquake,1.25,4.31,0.45,11.0,reviewed,nc,nc
+1992-04-25T18:47:03.850Z,40.3158333,-124.4863333,-0.788,4.56,md,14.0,250.0,0.2973,0.18,nc,nc413292,2016-12-19T07:21:06.527Z,"34 km SSW of Ferndale, California",earthquake,3.27,5.67,0.69,6.0,automatic,nc,nc
+1992-04-25T19:14:51.140Z,40.3095,-124.573,-0.068,4.74,md,26.0,234.0,0.3622,0.08,nc,nc30500015,2016-12-19T07:22:25.055Z,"39 km SW of Ferndale, California",earthquake,1.17,2.91,0.1,20.0,automatic,nc,nc
+1992-04-25T19:15:31.300Z,40.2995,-124.5601667,5.786,4.63,md,22.0,252.0,0.2,0.09,nc,nc267852,2016-12-19T07:22:29.753Z,"39 km SW of Ferndale, California",earthquake,1.72,0.96,0.3,74.0,reviewed,nc,nc
+1992-04-26T07:41:40.090Z,40.4325,-124.566,18.824,6.45,mw,34.0,248.0,0.1802,0.12,nc,nc268031,2022-04-28T18:50:46.737Z,"30 km WSW of Ferndale, California",earthquake,1.31,0.34,,1.0,reviewed,nc,nc
+1992-04-26T11:18:25.980Z,40.3828333,-124.555,21.713,6.57,mw,25.0,247.0,0.1901,0.07,nc,nc268078,2022-04-28T18:50:48.286Z,"32 km SW of Ferndale, California",earthquake,1.09,0.35,,1.0,reviewed,nc,nc
+1992-04-27T02:47:21.060Z,40.3238333,-124.6515,3.536,4.63,md,38.0,241.0,0.2739,0.08,nc,nc268261,2016-12-19T08:15:18.362Z,"43 km SW of Ferndale, California",earthquake,0.73,1.03,0.22,101.0,reviewed,nc,nc
+1992-06-05T21:46:43.070Z,40.3116667,-124.4065,19.606,4.89,md,18.0,243.0,0.0991,0.07,nc,nc288494,2022-04-28T18:42:57.265Z,"31 km SSW of Ferndale, California",earthquake,0.99,0.26,0.12,214.0,reviewed,nc,nc
+1994-03-13T16:59:03.740Z,40.3635,-124.9518333,8.894,4.7,mw,75.0,251.0,0.4829,0.1,nc,nc397633,2016-12-22T02:18:42.530Z,"62 km WSW of Ferndale, California",earthquake,0.79,1.81,,4.0,reviewed,nc,nc
+1994-06-19T10:39:32.880Z,40.3555,-124.4628333,18.676,4.9,mw,18.0,248.0,0.1541,0.06,nc,nc30051264,2016-12-22T07:29:49.430Z,"29 km SW of Ferndale, California",earthquake,1.23,0.23,,5.0,reviewed,nc,nc
+1994-09-01T15:15:53.080Z,40.402,-125.68,10.0,7.1,mwb,,,,1.0,us,usp0006hsx,2022-04-28T17:30:46.350Z,"121 km W of Ferndale, California",earthquake,,,,,reviewed,us,us
+1994-09-21T02:09:01.370Z,40.4235,-124.6258333,21.324,4.6,mw,55.0,231.0,0.2261,0.08,nc,nc30058307,2016-12-22T14:40:26.860Z,"35 km WSW of Ferndale, California",earthquake,0.66,0.44,,3.0,reviewed,nc,nc
+1994-10-14T00:57:25.430Z,40.3248333,-124.6205,18.816,4.5,mw,40.0,231.0,0.2514,0.09,nc,nc30060477,2016-12-22T16:55:08.640Z,"41 km SW of Ferndale, California",earthquake,0.86,0.38,,3.0,reviewed,nc,nc
+1994-11-14T01:28:23.980Z,40.3503333,-124.4698333,17.506,4.5,mw,18.0,249.0,0.1613,0.06,nc,nc30062558,2016-12-22T20:06:40.410Z,"30 km SW of Ferndale, California",earthquake,1.04,0.21,,3.0,reviewed,nc,nc
+1994-12-16T03:03:37.660Z,40.6595,-125.2283333,5.023,4.6,mw,116.0,230.0,0.7045,0.22,nc,nc30064424,2016-12-22T22:42:42.640Z,"82 km W of Ferndale, California",earthquake,2.07,1.23,,4.0,reviewed,nc,nc
+1994-12-26T14:10:29.180Z,40.7383333,-124.3028333,22.622,5.4,mw,33.0,194.0,0.264,0.07,nc,nc30065114,2022-04-28T17:18:46.503Z,"7 km WNW of Fields Landing, California",earthquake,0.38,0.73,,3.0,reviewed,nc,nc
+1995-01-08T01:00:55.350Z,40.644,-125.9271667,4.602,4.7,mw,15.0,302.0,1.224,0.25,nc,nc30065890,2016-12-23T01:32:01.860Z,"140 km W of Ferndale, California",earthquake,7.76,20.3,,4.0,reviewed,nc,nc
+1995-02-19T04:03:14.940Z,40.5918333,-125.7566667,4.622,6.6,mw,180.0,273.0,1.089,0.27,nc,nc30068187,2022-04-29T17:41:51.851Z,"126 km W of Ferndale, California",earthquake,2.58,6.05,,3.0,reviewed,nc,nc
+1996-08-08T09:19:04.580Z,40.352,-124.751,7.133,4.7,mw,62.0,237.0,0.3396,0.11,nc,nc474828,2016-12-25T00:43:35.650Z,"48 km WSW of Ferndale, California",earthquake,0.87,12.11,,4.0,reviewed,nc,nc
+1997-01-22T07:17:16.810Z,40.2736667,-124.3791667,23.007,5.6,mw,27.0,217.0,0.06036,0.08,nc,nc492079,2022-04-29T16:41:45.044Z,"33 km SW of Scotia, California",earthquake,0.94,0.49,,3.0,reviewed,nc,nc
+1997-01-22T08:00:43.400Z,40.3321667,-124.6343333,22.657,4.6,mw,33.0,238.0,0.264,0.05,nc,nc492088,2016-12-25T18:14:18.330Z,"41 km SW of Ferndale, California",earthquake,0.72,0.56,,3.0,reviewed,nc,nc
+1997-01-26T06:23:19.440Z,40.2813333,-124.3965,21.566,5.2,mw,22.0,230.0,0.07568,0.11,nc,nc492691,2016-12-25T18:26:18.990Z,"33 km SW of Scotia, California",earthquake,1.25,0.4,,3.0,reviewed,nc,nc
+1997-10-04T10:57:34.180Z,41.0528333,-125.3433333,6.792,5.5,mw,144.0,245.0,0.9586,0.15,nc,nc524039,2022-04-29T17:03:13.026Z,"100 km WNW of Samoa, California",earthquake,0.93,14.89,,4.0,reviewed,nc,nc
+1997-10-12T23:37:33.260Z,41.1048333,-125.6305,10.242,4.6,mw,88.0,281.0,1.168,0.13,nc,nc525428,2016-12-26T14:47:13.940Z,"125 km W of Trinidad, California",earthquake,2.29,9.07,,4.0,reviewed,nc,nc
+1997-10-26T10:44:06.410Z,41.0663333,-125.3235,4.602,5.2,mw,203.0,232.0,0.955,0.26,nc,nc528810,2016-12-26T16:47:57.020Z,"99 km W of Trinidad, California",earthquake,1.27,5.27,,4.0,reviewed,nc,nc
+1998-01-20T14:35:43.300Z,40.3465,-124.8513333,5.996,4.5,mw,64.0,254.0,0.4135,0.07,nc,nc552764,2016-12-28T03:48:10.870Z,"55 km WSW of Ferndale, California",earthquake,0.72,0.82,,4.0,reviewed,nc,nc
+1998-11-27T00:43:49.060Z,40.6736667,-125.2921667,4.492,5.4,mw,164.0,254.0,0.755,0.26,nc,nc30207272,2022-04-29T17:56:42.111Z,"87 km W of Ferndale, California",earthquake,1.71,3.5,,3.0,reviewed,nc,nc
+1999-02-15T06:00:03.950Z,40.2756667,-124.4045,21.206,4.7,mw,25.0,224.0,0.07838,0.1,nc,nc30217292,2016-12-29T19:17:54.910Z,"34 km SW of Scotia, California",earthquake,1.04,0.42,,3.0,reviewed,nc,nc
+1999-07-24T00:38:41.260Z,40.3856667,-125.1216667,6.237,4.6,mw,94.0,251.0,0.6063,0.14,nc,nc21037384,2016-12-30T16:44:50.670Z,"75 km WSW of Ferndale, California",earthquake,0.84,2.2,,3.0,reviewed,nc,nc
+1999-11-22T05:38:04.620Z,40.3995,-125.1373333,5.303,4.6,mw,97.0,238.0,0.6162,0.11,nc,nc21068316,2016-12-30T23:36:40.520Z,"76 km WSW of Ferndale, California",earthquake,0.83,1.37,,5.0,reviewed,nc,nc
+1999-12-26T19:41:53.130Z,40.2725,-124.3983333,22.716,4.8,mw,26.0,222.0,0.07297,0.09,nc,nc21074105,2016-12-31T01:07:09.410Z,"34 km SW of Scotia, California",earthquake,1.0,0.56,,4.0,reviewed,nc,nc
+2000-03-16T15:19:56.380Z,40.3886667,-125.2385,4.803,5.7,mw,158.0,228.0,0.6946,0.29,nc,nc21086915,2022-04-29T18:34:46.403Z,"85 km WSW of Ferndale, California",earthquake,1.5,2.3,,4.0,reviewed,nc,nc
+2000-05-08T09:12:34.540Z,40.3283333,-124.6921667,3.62,4.5,mw,73.0,235.0,0.309,0.06,nc,nc21096137,2017-03-17T16:07:23.147Z,"45 km SW of Ferndale, California",earthquake,0.42,0.61,,3.0,reviewed,nc,nc
+2001-01-13T13:08:42.100Z,40.7556667,-125.2445,2.243,5.4,mw,162.0,233.0,0.7459,0.26,nc,nc21143281,2022-06-18T01:01:56.897Z,off the coast of Northern California,earthquake,1.07,22.57,,6.0,reviewed,nc,nc
+2001-09-20T08:02:23.270Z,40.3565,-125.4938333,22.362,4.65,md,15.0,283.0,0.8919,0.13,nc,nc21194739,2017-03-17T16:44:07.530Z,"107 km WSW of Ferndale, California",earthquake,3.99,11.47,0.28,23.0,reviewed,nc,nc
+2002-04-29T00:43:29.770Z,40.6021667,-124.4496667,28.697,4.6,mw,16.0,227.0,0.1532,0.04,nc,nc21223451,2022-06-18T05:10:43.562Z,"15 km W of Ferndale, California",earthquake,0.55,0.83,,3.0,reviewed,nc,nc
+2002-06-17T16:55:07.680Z,40.8098333,-124.552,17.195,5.2,mw,74.0,225.0,0.3721,0.16,nc,nc21231051,2022-06-18T05:20:48.293Z,"29 km WNW of Fields Landing, California",earthquake,0.62,0.97,,3.0,reviewed,nc,nc
+2003-01-08T05:43:44.890Z,40.3908333,-125.0868333,7.347,4.6,mw,71.0,250.0,1.115,0.14,nc,nc21262804,2020-01-11T00:16:26.810Z,"72 km WSW of Ferndale, California",earthquake,1.05,13.9,,3.0,reviewed,nc,nc
+2003-08-15T09:22:15.650Z,40.9786667,-125.3573333,8.142,5.0,mw,84.0,251.0,0.9252,0.19,nc,nc21299771,2022-06-18T07:03:14.905Z,"100 km WNW of Indianola, California",earthquake,1.63,18.03,,12.0,reviewed,nc,nc
+2003-10-09T06:11:35.050Z,41.0676667,-125.1353333,6.354,4.5,mw,68.0,229.0,0.8459,0.16,nc,nc21311731,2022-06-18T07:19:04.565Z,"83 km W of Trinidad, California",earthquake,1.07,15.67,,6.0,reviewed,nc,nc
+2005-03-18T07:23:58.490Z,40.3706667,-124.972,17.08,4.85,mw,139.0,230.0,0.4964,0.27,nc,nc21446135,2020-05-06T07:09:36.986Z,"64 km WSW of Ferndale, California",earthquake,0.87,4.5,,4.0,reviewed,nc,nc
+2005-06-15T02:50:54.190Z,41.292,-125.953,16.0,7.2,mwc,420.0,31.4,,1.2,us,usp000dt25,2024-10-03T21:25:10.202Z,"153 km W of Big Lagoon, California",earthquake,,,,,reviewed,us,hrv
+2005-12-23T21:38:32.890Z,40.4273333,-125.3463333,3.152,4.63,mw,75.0,256.0,0.7721,0.14,nc,nc21500628,2022-08-08T22:23:36.579Z,"93 km W of Ferndale, California",earthquake,2.22,14.48,,8.0,reviewed,nc,nc
+2006-03-26T01:56:37.600Z,40.2778333,-124.449,22.253,4.52,mw,28.0,240.0,,0.13,nc,nc21510606,2022-02-17T19:15:45.039Z,"15km WSW of Petrolia, CA",earthquake,1.46,0.8,,6.0,reviewed,nc,nc
+2006-07-19T11:41:43.460Z,40.2806667,-124.4331667,20.064,5.0,mw,39.0,223.0,0.2081,0.09,nc,nc21527987,2020-05-06T09:05:26.783Z,"35 km SSW of Ferndale, California",earthquake,0.61,0.45,,6.0,reviewed,nc,nc
+2007-02-26T12:19:54.530Z,40.6428333,-124.8628333,-0.533,5.4,mw,94.0,244.0,0.4333,0.19,nc,nc40193932,2022-05-02T19:56:40.011Z,"51 km W of Ferndale, California",earthquake,0.7,1.64,,13.0,reviewed,nc,nc
+2007-02-26T12:21:02.140Z,40.642,-124.87,4.957,5.4,mh,21.0,329.0,,69.32,ci,ci10233309,2016-03-09T08:10:39.568Z,"52km W of Ferndale, CA",earthquake,99.0,31.61,,0.0,reviewed,ci,ci
+2007-05-09T07:50:03.830Z,40.3745,-125.0161667,-0.423,5.2,mw,57.0,239.0,0.527,0.14,nc,nc51181705,2022-05-02T20:16:41.199Z,"67 km WSW of Ferndale, California",earthquake,0.83,2.98,,4.0,reviewed,nc,nc
+2007-05-09T08:07:31.340Z,40.3841667,-124.9553333,-0.553,4.53,mw,57.0,234.0,0.4804,0.14,nc,nc51181706,2022-03-14T17:04:15.571Z,"57km W of Petrolia, CA",earthquake,1.07,2.59,,5.0,reviewed,nc,nc
+2007-06-25T02:32:24.620Z,41.1155,-124.8245,2.563,5.0,mw,213.0,213.0,0.6063,0.28,nc,nc51183469,2020-05-21T01:24:59.180Z,"57 km W of Trinidad, California",earthquake,0.54,2.63,,5.0,reviewed,nc,nc
+2008-08-17T05:56:59.370Z,41.1885,-124.216,15.66,4.6,mw,15.0,172.0,0.1486,0.06,nc,nc51207076,2020-06-27T07:23:47.818Z,"7 km WNW of Big Lagoon, California",earthquake,0.52,0.36,,10.0,reviewed,nc,nc
+2008-10-26T09:27:22.340Z,40.3368333,-124.6288333,20.827,4.9,mw,22.0,231.0,0.2604,0.04,nc,nc71011617,2020-05-06T09:21:58.793Z,"40 km SW of Ferndale, California",earthquake,0.73,0.31,,5.0,reviewed,nc,nc
+2008-11-16T05:43:15.590Z,40.3138333,-124.6026667,18.887,4.6,mw,39.0,230.0,0.2342,0.11,nc,nc51211307,2022-06-21T18:28:07.266Z,"40 km SW of Ferndale, California",earthquake,0.86,0.35,,7.0,reviewed,nc,nc
+2009-08-07T10:49:34.720Z,40.3098333,-124.637,16.257,4.92,mw,32.0,232.0,0.2586,0.09,nc,nc71261376,2022-08-05T21:30:33.823Z,"43 km SW of Ferndale, California",earthquake,0.77,0.35,,6.0,reviewed,nc,nc
+2010-01-10T00:27:39.320Z,40.652,-124.6925,28.737,6.5,mw,51.0,220.0,0.3225,0.2,nc,nc71338066,2024-02-25T07:18:33.872Z,"The 2010 Eureka, California Earthquake",earthquake,0.55,1.31,,8.0,reviewed,nc,nc
+2010-02-04T20:20:21.970Z,40.4123333,-124.9613333,23.048,5.88,mw,41.0,233.0,0.4802,0.19,nc,nc71348851,2022-08-05T23:49:31.575Z,"61 km WSW of Ferndale, California",earthquake,1.42,7.41,,7.0,reviewed,nc,nc
+2010-03-06T08:46:23.810Z,40.3198333,-124.7333333,12.397,4.53,mw,78.0,237.0,0.3324,0.12,nc,nc71359410,2022-08-06T00:13:23.309Z,"48 km SW of Ferndale, California",earthquake,0.39,0.42,,4.0,reviewed,nc,nc
+2010-03-06T08:47:37.870Z,40.32,-124.733,12.543,4.5,mh,6.0,293.0,5.654,0.07,ci,ci14597412,2016-03-10T05:53:51.443Z,"49km SW of Ferndale, CA",earthquake,4.68,31.61,,0.0,reviewed,ci,ci
+2010-04-15T08:36:06.630Z,40.2703333,-125.7648333,29.102,4.52,mw,19.0,309.0,1.108,0.25,nc,nc71382461,2017-01-22T05:57:14.530Z,"131 km WSW of Ferndale, California",earthquake,11.51,14.24,,5.0,reviewed,nc,nc
+2011-03-06T13:46:37.910Z,40.4038333,-125.363,24.467,4.54,mw,80.0,241.0,0.8207,0.35,nc,nc71538646,2022-08-06T05:59:30.940Z,"95 km WSW of Ferndale, California",earthquake,1.17,12.57,,7.0,reviewed,nc,nc
+2012-07-21T01:52:01.690Z,40.3853333,-125.528,24.632,5.1,mw,37.0,254.0,0.9126,0.26,nc,nc71819391,2022-08-06T10:55:41.032Z,"109 km WSW of Ferndale, California",earthquake,1.79,15.81,,16.0,reviewed,nc,nc
+2012-07-21T06:04:21.250Z,40.4116667,-125.3308333,5.871,5.19,mw,42.0,253.0,0.7604,0.18,nc,nc71819471,2022-08-06T10:56:32.877Z,"92 km WSW of Ferndale, California",earthquake,2.52,2.71,,7.0,reviewed,nc,nc
+2013-03-30T21:43:28.200Z,40.453,-125.232,4.8,4.5,mwr,303.0,252.2,,,us,usb000fwth,2022-08-06T14:37:53.738Z,"83 km W of Ferndale, California",earthquake,,,,,reviewed,nc,brk
+2013-10-11T23:05:37.330Z,40.9835,-124.7498333,8.635,4.94,mw,124.0,214.0,0.4775,0.17,nc,nc72086051,2022-08-06T18:16:08.537Z,"50 km WNW of Samoa, California",earthquake,0.43,0.95,,6.0,reviewed,nc,nc
+2013-11-08T10:46:56.070Z,41.3256667,-125.2915,11.952,4.65,mw,70.0,236.0,0.9658,0.19,nc,nc72103326,2022-08-06T19:08:40.234Z,"98 km W of Big Lagoon, California",earthquake,1.16,17.78,,5.0,reviewed,nc,nc
+2014-01-23T04:10:41.190Z,40.411,-125.3411667,23.362,4.63,mw,107.0,240.0,0.7676,0.27,nc,nc72145230,2022-08-06T21:19:42.986Z,"93 km WSW of Ferndale, California",earthquake,1.08,8.76,,5.0,reviewed,nc,nc
+2014-03-10T05:18:13.430Z,40.8286667,-125.1338333,16.441,6.8,mw,112.0,229.0,0.6568,0.15,nc,nc72182046,2022-09-24T19:42:07.982Z,"77 km WNW of Indianola, California",earthquake,0.64,1.88,,5.0,reviewed,nc,nc
+2015-01-01T12:16:14.570Z,40.442,-125.7746667,23.9,5.36,mw,38.0,271.0,1.086,0.19,nc,nc72373456,2022-08-07T06:50:42.353Z,"128 km W of Ferndale, California",earthquake,1.48,11.77,,8.0,reviewed,nc,nc
+2015-01-28T21:08:53.710Z,40.3178333,-124.6066667,16.881,5.72,mw,52.0,230.0,0.2459,0.13,nc,nc72387946,2023-01-22T07:44:02.853Z,"40 km SW of Ferndale, California",earthquake,0.54,0.33,,13.0,reviewed,nc,nc
+2015-12-29T03:35:28.390Z,41.0703333,-125.286,16.86,4.87,mw,53.0,240.0,0.8829,0.18,nc,nc72571010,2020-05-02T03:38:48.964Z,"96 km W of Trinidad, California",earthquake,1.18,3.39,,5.0,reviewed,nc,nc
+2016-05-27T22:00:28.500Z,40.3955,-125.3781667,18.47,4.5,mw,33.0,261.0,0.7973,0.21,nc,nc72642536,2020-05-21T01:29:53.286Z,"96 km WSW of Ferndale, California",earthquake,2.92,6.19,,4.0,reviewed,nc,nc
+2016-09-03T03:27:57.250Z,40.3208333,-125.6876667,28.57,5.64,mw,21.0,313.0,1.041,0.28,nc,nc72689331,2022-05-03T17:57:58.170Z,"124 km WSW of Ferndale, California",earthquake,3.32,31.61,,6.0,reviewed,nc,nc
+2017-07-29T00:02:40.910Z,40.7821667,-125.1806667,26.54,5.08,mw,101.0,230.0,0.7111,0.18,nc,nc72852151,2017-10-14T00:19:45.040Z,"80 km W of Indianola, California",earthquake,0.95,9.97,,5.0,reviewed,nc,nc
+2017-07-29T17:08:26.240Z,41.0753333,-125.3303333,24.34,4.58,mw,48.0,242.0,0.9164,0.2,nc,nc72852946,2017-10-14T00:19:45.040Z,"99 km W of Trinidad, California",earthquake,1.08,10.58,,6.0,reviewed,nc,nc
+2018-01-07T19:01:00.490Z,40.3986667,-125.2446667,29.45,4.52,mw,71.0,244.0,0.6967,0.18,nc,nc72950451,2020-05-21T01:31:43.062Z,"82km W of Petrolia, CA",earthquake,1.02,4.16,,8.0,reviewed,nc,nc
+2018-03-23T03:09:39.100Z,40.4278333,-124.5108333,25.19,4.66,mw,31.0,247.0,0.1406,0.15,nc,nc72988926,2018-06-19T01:35:48.040Z,"22km WNW of Petrolia, CA",earthquake,0.49,0.5,,4.0,reviewed,nc,nc
+2018-07-25T05:06:06.740Z,40.3851667,-125.0523333,10.59,4.53,mw,46.0,243.0,0.5531,0.13,nc,nc73055086,2018-10-09T16:43:29.040Z,"65km W of Petrolia, CA",earthquake,0.96,2.35,,6.0,reviewed,nc,nc
+2019-06-23T03:53:02.890Z,40.2735,-124.3003333,9.44,5.58,mw,34.0,159.0,0.03116,0.17,nc,nc73201181,2021-12-20T21:29:47.348Z,"6km SSW of Petrolia, CA",earthquake,0.34,0.21,,6.0,reviewed,nc,nc
+2020-03-09T02:59:08.860Z,40.3916667,-125.0936667,3.19,5.77,mw,40.0,277.0,0.5832,0.29,nc,nc73351710,2022-02-22T07:43:40.628Z,"69km W of Petrolia, CA",earthquake,0.99,1.38,,4.0,reviewed,nc,nc
+2020-03-09T06:32:59.890Z,40.3648333,-125.1431667,7.2,4.94,mw,16.0,321.0,0.6168,0.19,nc,nc73351825,2020-05-23T22:03:20.040Z,"73km W of Petrolia, CA",earthquake,1.54,1.86,,4.0,reviewed,nc,nc
+2020-03-18T22:08:20.920Z,40.3475,-124.4561667,28.61,5.21,mw,34.0,248.0,0.105,0.16,nc,nc73355700,2023-01-01T19:02:31.265Z,"15km W of Petrolia, CA",earthquake,0.78,0.55,,5.0,reviewed,nc,nc
+2020-03-22T16:27:38.070Z,40.4251667,-124.827,12.4,4.78,mw,117.0,227.0,0.3769,0.16,nc,nc73357410,2020-06-06T20:54:06.040Z,"47km WNW of Petrolia, CA",earthquake,0.36,0.49,,7.0,reviewed,nc,nc
+2021-03-30T15:51:23.240Z,40.3685,-125.1813333,9.72,4.69,mw,38.0,282.0,0.6462,0.28,nc,nc73541781,2022-06-02T23:17:23.184Z,"76km W of Petrolia, CA",earthquake,1.81,31.61,,4.0,reviewed,nc,nc
+2021-07-18T06:46:12.650Z,40.3235,-124.4255,30.91,5.12,mw,35.0,234.0,0.07243,0.17,nc,nc73594531,2023-07-03T19:10:55.098Z,"12km W of Petrolia, CA",earthquake,0.86,0.49,,6.0,reviewed,nc,nc
+2021-12-20T20:10:20.310Z,40.2978333,-124.626,16.51,5.65,ml,63.0,234.0,0.217,0.18,nc,nc71127029,2022-03-01T16:38:21.040Z,"29km W of Petrolia, CA",earthquake,0.9,0.42,0.146,3.0,reviewed,nc,nc
+2021-12-20T20:10:31.310Z,40.3901667,-124.298,27.04,6.2,mw,33.0,170.0,0.06557,0.13,nc,nc73666231,2024-12-06T02:49:59.866Z,"7km N of Petrolia, CA",earthquake,0.46,0.34,,0.0,reviewed,nc,nc
+2021-12-20T20:13:40.750Z,40.3498333,-124.8993333,19.88,4.84,ml,90.0,241.0,0.4301,0.19,nc,nc71126864,2022-06-21T06:11:25.572Z,"52km W of Petrolia, CA",earthquake,0.69,1.6,0.146,10.0,reviewed,nc,nc
+2022-01-06T02:42:10.830Z,40.3846667,-124.8643333,12.57,4.58,mw,145.0,224.0,0.4123,0.24,nc,nc73674251,2022-03-12T22:19:11.040Z,"50km W of Petrolia, CA",earthquake,0.87,0.9,,3.0,reviewed,nc,nc
+2022-09-24T19:27:39.450Z,40.3136667,-124.7245,13.08,4.84,mw,109.0,228.0,0.2932,0.24,nc,nc73785481,2022-12-03T22:03:20.040Z,"37km W of Petrolia, CA",earthquake,0.47,0.5,,4.0,reviewed,nc,nc
+2022-12-20T10:34:24.770Z,40.525,-124.423,17.91,6.4,mw,38.0,214.0,0.0818,0.18,nc,nc73821036,2024-12-05T23:35:51.578Z,"15km WSW of Ferndale, CA",earthquake,0.67,0.4,,0.0,reviewed,nc,nc
+2022-12-20T10:39:02.360Z,40.5228333,-124.1881667,26.55,4.92,mw,35.0,60.0,0.06918,0.12,nc,nc73821046,2023-02-28T23:06:32.040Z,"7km WNW of Rio Dell, CA",earthquake,0.3,0.47,,3.0,reviewed,nc,nc
+2023-01-01T18:35:04.510Z,40.409,-123.971,30.63,5.35,mw,37.0,44.0,0.1146,0.13,nc,nc73827571,2023-08-13T16:30:41.019Z,"15km SE of Rio Dell, CA",earthquake,0.25,0.62,,5.0,reviewed,nc,nc
+2023-03-21T23:18:19.630Z,40.5415,-124.3725,18.1,4.54,mw,34.0,204.0,0.07107,0.18,nc,nc73860415,2023-05-26T21:54:11.040Z,"10km WSW of Ferndale, CA",earthquake,0.57,0.35,,5.0,reviewed,nc,nc
+2023-05-21T18:44:01.400Z,40.3775,-125.5628333,10.0,5.58,mw,127.0,245.0,0.937,0.29,nc,nc73890906,2024-05-20T18:54:04.331Z,"108km W of Petrolia, CA",earthquake,1.35,31.61,,4.0,reviewed,nc,nc
+2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45.0,166.0,0.02573,0.2,nc,nc73943821,2023-12-09T22:00:42.040Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5.0,reviewed,nc,nc
+2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45.0,52.0,0.0472,0.12,nc,nc73947830,2024-06-15T17:14:55.040Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4.0,reviewed,nc,nc
+2024-02-02T15:09:00.160Z,40.3893333,-125.4448333,10.0,4.92,mw,145.0,243.0,0.8485,0.29,nc,nc73997816,2024-04-13T19:35:11.040Z,"98 km W of Petrolia, CA",earthquake,1.34,31.61,,4.0,reviewed,nc,nc
+2024-12-05T18:44:21.110Z,40.374,-125.021666666667,10.0,7.0,mw,172.0,229.0,0.5261,0.23,nc,nc75095651,2024-12-24T18:54:30.745Z,"2024 Offshore Cape Mendocino, California Earthquake",earthquake,0.63,31.61,0.018,303.0,reviewed,nc,nc
+2024-12-05T18:46:29.660Z,40.349,-124.915,12.51,4.67,ml,54.0,241.0,0.4418,0.2,nc,nc75001903,2024-12-21T15:56:00.930Z,"53 km WNW of Petrolia, CA",earthquake,0.83,1.04,0.102,9.0,reviewed,nc,nc
+2024-12-15T07:21:59.240Z,40.4141666666667,-125.183666666667,10.0,5.25,mw,203.0,234.0,0.6455,0.21,nc,nc75103356,2024-12-24T19:33:23.600Z,"77 km WNW of Petrolia, CA",earthquake,0.97,31.61,,16.0,reviewed,nc,nc
