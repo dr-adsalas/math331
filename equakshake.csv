@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-15T07:44:05.450Z,34.0598335,-118.9088364,15.27,3.7,mw,120,132,0.05227,0.32,ci,ci40186202,2025-02-18T17:59:00.992Z,"11 km NW of Malibu, CA",earthquake,0.44,0.49,,4,reviewed,ci,ci
+2025-02-15T14:30:11.535Z,34.0251,-118.9242,10,3.3,ml,32,122,0.124,0.53,us,us7000pdza,2025-02-18T17:59:27.728Z,"13 km W of Malibu, California",earthquake,1.63,1.989,0.037,96,reviewed,us,us
+2025-02-15T14:30:12.190Z,34.0488333,-118.9136667,14.19,3.73,ml,107,144,0.05112,0.33,ci,ci40186282,2025-02-18T17:57:15.135Z,"11 km WNW of Malibu, CA",earthquake,0.36,0.48,0.212,16,reviewed,ci,ci
